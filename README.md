@@ -1,10 +1,10 @@
 # AndroidCleanMVVM
 @Woeking On Progress ...
 steps
-1- Bulding C++ Script
-2- Bulding python Script
-3- Bulding UI InterFace
-4- Connect To fire Base
-5- 
-6-
+@update Klint Blugin for fromating data 
+//MARK : integrate klint with single line Of Code 
+https://github.com/JLLeitschuh/ktlint-gradle 
+// Comands Auto Corrent and auto clean  🧽  
+Ktlint -F $bath 
+
 
