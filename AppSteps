@@ -1,0 +1,6 @@
+#App Steps
+- Read From Yaml Config File  (D)
+- create pattern packages (D)
+- create files inside packges
+- add owner and signatures to each package
+- add files automatically form android studio terminal
